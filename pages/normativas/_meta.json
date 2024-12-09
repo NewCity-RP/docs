@@ -1,0 +1,17 @@
+{
+  "general": {
+    "title": "General"
+  },
+  "legal": {
+    "title": "Legal"
+  },
+  "ilegal": {
+    "title": "Ilegal"
+  },
+  "playmakers": {
+    "title": "PlayMakers"
+  },
+  "streamers": {
+    "title": "Streamers"
+  }
+}

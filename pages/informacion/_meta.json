@@ -1,0 +1,11 @@
+{
+  "conexion" : {
+    "title" : "Conexión"
+  },
+  "roles" : {
+    "title" : "Roles"
+  },
+  "economia" : {
+    "title" : "Economía"
+  }
+}
