@@ -7,5 +7,8 @@
   },
   "economia" : {
     "title" : "Economía"
+  },
+  "donaciones" : {
+    "title" : "Donaciones"
   }
 }
