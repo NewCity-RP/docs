@@ -1,14 +1,11 @@
 {
-  "lspd": {
-    "title": "LSDP"
+  "sapd": {
+    "title": "SAPD"
   },
-  "ems": {
-    "title": "EMS"
+  "sams": {
+    "title": "SAMS"
   },
   "comercios": {
     "title": "Comercios"
-  },
-  "talleres": {
-    "title": "Talleres"
   }
 }
